@@ -1,4 +1,4 @@
-                                                                  **DATA EXPLORATION AND VISUALISATION**
+                                                                  __DATA EXPLORATION AND VISUALISATION__
 
 This project focuses on analyzing a comprehensive dataset of 8,807 Netflix shows to derive actionable insights that can help Netflix make informed decisions about content production and business growth. With Netflix being a leading media and video streaming platform with over 200 million global subscribers as of mid-2021, leveraging data-driven insights is crucial for enhancing its content strategy and optimizing user experience.
 Technologies Used: Python libraries: pandas,numpy, matplot and seaborn
